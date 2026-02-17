@@ -1,4 +1,4 @@
-# RingBuffer
+## RingBuffer
 RingBuffer Code for Game Server Programming
 
 x86, MSVC 환경 (TSO Memory Order)에서  

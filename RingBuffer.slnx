@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="No Optimization" />
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RingBuffer/RingBuffer.vcxproj" Id="161e91bf-4bd8-4e1e-a582-59bcfa79c08d" />
+</Solution>
